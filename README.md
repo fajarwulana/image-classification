@@ -1,2 +1,2 @@
-# image-classification
-Projek ini merupakan salah satu bentuk rangkaian akhir dari pelatihan yang telah dilakukan oleh Dicoding Academy. Hasil projek ini memenuhi semua kriteria yang telah ditentukan oleh DA dan mendapatkan penilaian bintang 5. Namun, dari projek ini juga masih banyak kekurangan dan perlu adanya penyempurnaan .
+# Image Classification using Convolutional Neural Network (CNN)
+Projek ini merupakan salah satu bentuk pengaplikasian dari hasil pembelajaran selama mengikuti program yang diselenggarakan oleh Kominfo melalui Dicoding Academy. Hasil projek ini memenuhi semua kriteria yang telah ditentukan oleh Dicoding Academy dan mendapatkan penilaian bintang 5. Namun, pada model ini juga masih memiliki kekurangan sehingga perlu adanya penyempurnaan dari berbagai pihak.
